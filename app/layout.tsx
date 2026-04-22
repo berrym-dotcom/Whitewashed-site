@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Whitewashed",
+  description: "Documentary site",
+};
+
 export default function RootLayout({
   children,
 }: {
